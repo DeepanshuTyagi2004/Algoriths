@@ -1,6 +1,0 @@
-this is first pull
-<<<<<<< HEAD
-this is changed 2
-=======
-this is changed
->>>>>>> dd1050f (changed t1 t2 t3 t4 from GIT/Algo)
